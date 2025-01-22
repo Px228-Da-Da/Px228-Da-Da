@@ -2,12 +2,7 @@
 
 Добро пожаловать в мой GitHub профиль! Здесь вы найдете мои проекты, эксперименты и много интересного кода. 😎
 
-<p align='center'>
-   <a href="https://github-readme-stats.vercel.app/api?username=Px228-Da-Da&show_icons=true&count_private=true&theme=radical">
-       <img height=150 src="https://github-readme-stats.vercel.app/api?username=Px228-Da-Da&show_icons=true&count_private=true&theme=radical"/></a>
-   <a href="https://github.com/Px228-Da-Da/github-readme-stats">
-       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Px228-Da-Da&layout=compact&langs_count=6&theme=radical"/></a>
-</p>
+
 
 ---
 
@@ -27,6 +22,7 @@
 <p>
    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
    <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+   <img src="https://img.shields.io/badge/Linux%20cmd-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
    <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
 </p>
 
