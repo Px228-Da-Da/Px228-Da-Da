@@ -52,9 +52,7 @@
 ---
 
 ### 🔗 Полезные ссылки:
-- 💼 [Мой LinkedIn](https://linkedin.com/in/ваше-имя)
-- 🌐 [Мой веб-сайт](https://ваш-сайт)
-- ✉️ Связаться со мной: [ваш email](mailto:ваш-email)
+- ✉️ Связаться со мной: [Telegram](https://t.me/Fyritis)
 
 ---
 
