@@ -1,13 +1,11 @@
-# Привет! 👋 Меня зовут Px (псивдоним)
+# Привіт! 👋 Мене звати Px (псевдонім)
 
-Добро пожаловать в мой GitHub профиль! Здесь вы найдете мои проекты, эксперименты и много интересного кода. 😎
-
-
+Ласкаво просимо до мого GitHub профілю! Тут ви знайдете мої проєкти, експерименти та багато цікавого коду. 😎
 
 ---
 
-### 🛠️ Знания и навыки:
-#### 💻 Языки программирования:
+### 🛠️ Знання та навички:
+#### 💻 Мови програмування:
 <p>
 <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
 <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
@@ -22,7 +20,6 @@
    <img src="https://img.shields.io/badge/PyQt6-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="PyQt6"/>
 </p>
 
-
 <p>
    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
    <img src="https://img.shields.io/badge/—-gray?style=flat-square" alt="Dash" />
@@ -33,8 +30,7 @@
    <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js"/>
 </p>
 
-
-#### 🛠️ Инструменты и технологии:
+#### 🛠️ Інструменти та технології:
 <p>
    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
    <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
@@ -45,15 +41,15 @@
 ---
 
 ### 📊 Моя статистика:
-- 🔧 **Текущие проекты:** Работаю над несколькими личными проектами.
-- 🏆 **Значки и достижения:** Всегда стараюсь писать чистый и оптимизированный код!
-- 🏆 **Достижения:** Прошел много курсов на **prometheus.org.ua** со сортифитакоми
+- 🔧 **Поточні проєкти:** Працюю над декількома особистими проєктами.
+- 🏆 **Значки та досягнення:** Завжди прагну писати чистий і оптимізований код!
+- 🏆 **Досягнення:** Пройшов багато курсів на **prometheus.org.ua** із сертифікатами.
 
 ---
 
-### 🔗 Полезные ссылки:
-- ✉️ Связаться со мной: [Telegram](https://t.me/Fyritis)
+### 🔗 Корисні посилання:
+- ✉️ Зв’язатися зі мною: [Telegram](https://t.me/Fyritis)
 
 ---
 
-> "Кодинг — это искусство. Давайте писать красиво!" 🎨
+> "Кодинг – це мистецтво. Давайте писати гарно!" 🎨
