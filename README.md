@@ -13,8 +13,9 @@
 <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
 </p>
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 <p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/—-gray?style=flat-square" alt="Dash" />
    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
    <img src="https://img.shields.io/badge/socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="Socket.IO"/>
    <img src="https://img.shields.io/badge/PyQt5-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="PyQt5"/>
@@ -42,7 +43,6 @@
 ---
 
 ### 📊 Моя статистика:
-- 📚 **Языки программирования:** См. статистику выше! Также знаю: Python, JavaScript, HTML, CSS.
 - 🔧 **Текущие проекты:** Работаю над несколькими личными проектами.
 - 🏆 **Значки и достижения:** Всегда стараюсь писать чистый и оптимизированный код!
 
